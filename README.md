@@ -1,4 +1,4 @@
-Hello everyone, here is my project for decripting passwords from search engines.
+Hello everyone, here is my project for deciphering passwords from search engines.
 
 here is both c# an python scripts.
 
@@ -10,3 +10,5 @@ the C-Sharp one can only handle normal URL for Discord Webhooks.
 you have to put your own webhook before using it.
 
 Have fun !
+
+everything if for learning purposes. I won't be held reliable for any malevolent actions made with my code.
